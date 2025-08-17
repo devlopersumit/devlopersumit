@@ -6,7 +6,7 @@
 
 ## 🌟 About Me  
 - 💻 Skilled in **React, JavaScript, TypeScript, Tailwind CSS**  
-- 🌱 Currently learning **Node.js, Express.js, MongoDB, Python** to become a **Full Stack Developer**  
+- 🌱 Currently learning **Node.js, Express.js, MongoDB, and Python** to become a **Full Stack Developer**  
 - 📚 Experience as a **Computer Science Teacher** → breaking down complex topics into simple solutions  
 - 🤖 Curious about **Agentic AI** and how it can power smarter, future-ready web solutions  
 - 🎯 Open to **Remote Full-Time / Internship** opportunities  
@@ -45,7 +45,21 @@
 ---
 
 ## 📂 Featured Projects  
-🚧 *(Adding soon — building real-world MERN and AI-driven projects!)*  
+
+### 🔧 [DevTooly](https://devtooly.vercel.app/)  
+A collection of handy developer tools to simplify everyday coding tasks and boost productivity.  
+
+### 🎬 [MoviesHunt](https://movieshunt.vercel.app/)  
+A movie discovery platform where users can search, explore, and get details of their favorite movies.  
+
+### 💳 [OfferShare](https://offershare.vercel.app/)  
+A platform where users and businesses can list and share exclusive offers with their community.  
+
+### 💳 [UseMyCard](https://usemycard.vercel.app/)  
+Helps users share debit/credit card benefits within a trusted circle to maximize rewards and offers.  
+
+### 📚 [BookForYou](https://bookforyou.vercel.app/)  
+A book discovery app that helps users find top books on self-help, finance, and personal development.  
 
 ---
 
@@ -58,10 +72,9 @@
 
 ## 🌍 Connect With Me  
 
-- 🌐 [Portfolio Website](#) *(coming soon)*  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sumit-jha?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 🐦 [Twitter / X](https://x.com/_sumitjha_?t=4nSWLPjfWOEhS06PoX9-Lg&s=09)  
-- 💻 [GitHub](https://github.com/devlopersumit)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-jha?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_sumitjha_?t=4nSWLPjfWOEhS06PoX9-Lg&s=09)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devlopersumit)  
 
 ---
 
