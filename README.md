@@ -33,7 +33,7 @@
 - Enhanced problem-solving and **clean code practices** through teaching  
 
 ### 🧑‍💻 Co-Founder @ Career Tech Insight  
-*(June 2024 – Present)*  
+*(June 2024 – June 2025)*  
 - Researched and created content around **AI tools, productivity tech & career hacks**  
 - Managed **LinkedIn community & content strategy** to help students and professionals  
 - Focused on **market trends, AI exploration, and audience engagement**  
