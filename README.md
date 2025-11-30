@@ -154,7 +154,7 @@ Share card offers with a trusted circle.
 - Capstone apps using **Next.js + TypeScript + PostgreSQL + Prisma**
 - Scalable backend architecture & security  
 - AI-assisted developer tools  
-- Preparing for a **Remote Full Stack Developer role by Dec 2025**
+- Preparing for a **Remote Full Stack Developer role**
 
 ---
 
