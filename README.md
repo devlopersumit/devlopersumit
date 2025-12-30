@@ -80,7 +80,7 @@ Share card offers securely within trusted circles.
 ---
 
 ## 🎯 Currently Focused On
-- Building capstone apps with **Next.js + TypeScript + PostgreSQL**
+- Building capstone apps with **Next.js + TypeScript + PostgreSQL + MERN**
 - Writing **clean backend architecture**
 - Preparing for a **Remote Full Stack Developer role**
 
