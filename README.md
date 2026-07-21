@@ -1,7 +1,7 @@
 # Hi there, I'm Sumit Jha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-powered+Products;MERN+%7C+TypeScript+%7C+Node.js+%7C+React;Learning+in+Public;Future+Remote+AI+Full-Stack+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-powered+Products;MERN+%7C+TypeScript+%7C+Node.js+%7C+React;Learning+in+Public;Preparing+Remote+AI+Full-Stack+Engineer" />
 </p>
 
 <p align="center">
