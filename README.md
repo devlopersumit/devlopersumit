@@ -158,6 +158,10 @@ I'm currently building projects around:
   <img src="https://streak-stats.demolab.com?user=devlopersumit&theme=transparent&hide_border=true" />
 </p>
 
+## 📊 Contribution Graph
+
+[![Sumit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devlopersumit&theme=github-compact)](https://github.com/devlopersumit)
+
 ---
 
 # 🎯 2026 Goals
