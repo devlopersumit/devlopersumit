@@ -1,96 +1,209 @@
-# Hi, I’m Sumit Jha 👋  
-**Full Stack Developer | MERN • Next.js • TypeScript**
+# Hi there, I'm Sumit Jha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 
-I build **clean, scalable, production-ready web applications** — from UI to backend to database to deployment.  
-Former **Computer Science teacher**, now a developer who values **clarity, structure, and real-world engineering practices**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-powered+Products;MERN+%7C+TypeScript+%7C+Node.js+%7C+React;Learning+in+Public;Future+Remote+AI+Full-Stack+Engineer" />
+</p>
 
-🔹 Open to **Remote Full-Time / Internship** roles  
-
----
-
-## 💻 Tech Stack
-
-**Frontend**
-- React.js, Next.js
-- TypeScript, JavaScript (ES6+)
-- Tailwind CSS, HTML, CSS
-
-**Backend & Database**
-- Node.js, Express.js
-- MongoDB, PostgreSQL
-- Prisma ORM
-- REST APIs, JWT Authentication
-
-**Tools**
-- Git, GitHub
-- Vercel, Supabase, Firebase
-- Postman, VS Code
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge"/>
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20Opportunities-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning%20in-Public-blue?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 👋 About Me
 
-### 🔍 IssueFinder  
-Find GitHub issues quickly for open-source contributions.  
-**Stack:** React, Node.js, Express, MongoDB, GitHub API  
-🔗 https://issuefinder.fun
+I'm **Sumit**, a self-taught developer on a mission to become the kind of engineer who can **design, build, and ship real-world AI products independently.**
 
----
+A few months ago I stopped preparing for jobs to chase startup ideas.
 
-### 🔗 Synclly  
-Task syncing & workflow management tool.  
-**Stack:** React, Node.js, Express, MongoDB  
-🔗 https://synclly.vercel.app
+Some products launched.
 
----
+Most failed.
 
-### ✂️ CleanCutt  
-Image background removal & trimming tool.  
-**Stack:** React, Node.js, Express, MongoDB  
-🔗 https://cleancutt.vercel.app
+I lost money, my primary source of income, and plenty of confidence.
 
----
+But I also learned how to:
 
-### 📚 BookForYou  
-Curated book recommendation platform.  
-**Stack:** React, Tailwind CSS  
-🔗 https://bookforyou.vercel.app
+* Build products from scratch
+* Ship faster
+* Think like a founder
+* Solve real user problems
+* Learn from failure
+
+Now I'm back with one clear mission:
+
+> **Become an AI Full-Stack Engineer that startups can trust to build products from idea to production.**
+
+I'm documenting everything I learn and build along the way.
 
 ---
 
-### 🎬 MoviesHunt  
-Movie search & discovery app.  
-**Stack:** React, External APIs  
-🔗 https://movieshunt.vercel.app
+# 🚀 Current Focus
+
+```text
+✓ JavaScript Mastery
+✓ TypeScript
+✓ React & Next.js
+
+✓ Node.js & Express
+✓ Backend Architecture
+✓ API Design
+✓ Authentication & Security
+
+✓ SQL & NoSQL
+✓ Docker
+✓ Redis
+✓ System Design
+
+✓ AI Engineering
+✓ LLMs
+✓ RAG
+✓ AI Agents
+✓ AI APIs
+
+✓ Production-ready MERN + AI Projects
+
+✓ DSA
+✓ Machine Coding
+✓ Interview Preparation
+```
 
 ---
 
-### 🛠️ DevTooly  
-Developer productivity tools in one place.  
-**Stack:** React, Tailwind CSS  
-🔗 https://devtooly.vercel.app
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vercel" />
+</p>
+
+### Currently Exploring
+
+* AI Engineering
+* LangChain
+* Vector Databases
+* MCP
+* AI SDKs
+* RAG Pipelines
+* Agentic Workflows
+* Kubernetes
+* Microservices
+* Event-Driven Architecture
 
 ---
 
-### 💳 UseMyCard  
-Share card offers securely within trusted circles.  
-**Stack:** React, Supabase  
-🔗 https://usemycard.vercel.app
+# 📂 Building
+
+I'm currently building projects around:
+
+* 🤖 AI Applications
+* ⚡ Backend Systems
+* 🧠 LLM Integrations
+* 🌐 Full-Stack SaaS
+* 🔐 Authentication Systems
+* 📦 Scalable APIs
+* 🚀 Production-ready MERN Apps
 
 ---
 
-## 🎯 Currently Focused On
-- Building capstone apps with **Next.js + TypeScript + PostgreSQL + MERN**
-- Writing **clean backend architecture**
-- Preparing for a **Remote Full Stack Developer role**
+# 📖 What You'll Find Here
+
+* Production-ready projects
+* Backend architecture experiments
+* AI projects
+* System design implementations
+* Open source contributions
+* Technical notes
+* Learning resources
 
 ---
 
-## 🌐 Connect
-- LinkedIn: https://www.linkedin.com/in/sumit-jha  
-- X (Twitter): https://x.com/_sumitjha_  
-- GitHub: https://github.com/devlopersumit  
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME"/>
+
+</p>
 
 ---
 
-> *I believe in simple code, strong fundamentals, and shipping real products.*
+# 🎯 2026 Goals
+
+* Build 10+ production-quality projects
+* Master Backend Engineering
+* Master AI Engineering
+* Contribute to Open Source
+* Write technical blogs consistently
+* Land a Remote AI Full-Stack Engineer role
+
+---
+
+# 🌱 Philosophy
+
+> **Build. Fail. Learn. Repeat.**
+
+I don't want to memorize frameworks.
+
+I want to understand systems.
+
+I don't want to just write code.
+
+I want to build products that solve real problems.
+
+---
+
+# 🤝 Let's Connect
+
+I'm always happy to connect with developers, founders, and people who love building.
+
+If you're learning, building, or shipping products—
+
+Let's connect.
+
+---
+
+<p align="center">
+
+### Thanks for stopping by! ⭐
+
+*"Consistency compounds. Every commit is a step forward."*
+
+</p>
